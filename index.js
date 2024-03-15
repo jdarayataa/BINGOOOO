@@ -28,7 +28,7 @@ let B = false
                 console.log(`New Number ${x} is invalid.`);
             }
             if (B == true && I == true && N == true && G == true && O == true) {
-                console.log(`BINGOOOOO!!`);
+                console.log(`BINGO!!`);
             }
             }
             newNumber(75);
